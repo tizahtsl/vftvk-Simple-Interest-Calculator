@@ -14,7 +14,8 @@ font-family: verdana;
     width: 300px;
     padding: 20px;
     border-radius: 25px;
-   vertical-align: middle;
+   margin-left: auto;
+    margin-right: auto;
   
 }
 
