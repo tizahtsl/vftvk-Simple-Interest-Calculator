@@ -7,7 +7,7 @@ vertical-align: middle;
 h1{
   color: grey;
 font-family: verdana;
-margin: 0 auto;
+
 }
 
 .maindiv{
@@ -16,6 +16,7 @@ margin: 0 auto;
     width: 300px;
     padding: 20px;
     border-radius: 25px;
+    margin: 0 auto;
 
   
 }
